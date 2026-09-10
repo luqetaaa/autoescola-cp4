@@ -4,7 +4,7 @@ API REST desenvolvida em Java com Spring Boot para gerenciar alunos, instrutores
 
 ## Integrantes
 
-- Lucas Rodrigues de Queiroz - RM556323 (líder)
+- Lucas Rodrigues de Queiroz - RM556323
 - Victor Hugo de Paula - RM554787
 - Otavio Santos de Lima Ferrao - RM556452
 - Felipe Carioba - RM558447
